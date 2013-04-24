@@ -18,7 +18,7 @@ Example:
 
     cd ~/.local/share/gnome-shell/extensions/
     git clone https://github.com/tuxor1337/insensitive-message-tray insensitivetray@tovotu.de
-    gnome-shell-extension-tool -d insensitivetray@tovotu.de
+    gnome-shell-extension-tool -e insensitivetray@tovotu.de
     
 You can also manages extensions from https://extensions.gnome.org/local/
 
