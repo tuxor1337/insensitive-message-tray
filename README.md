@@ -5,8 +5,6 @@ Renders Gnome's bottom message tray insensitive
 * https://extensions.gnome.org/extension/616/insensitive-message-tray/
 * https://github.com/tuxor1337/insensitive-message-tray
 
-Tested on Gnome 3.6.X
-
 Installation:
 -------------
 
@@ -20,7 +18,7 @@ Example:
     git clone https://github.com/tuxor1337/insensitive-message-tray insensitivetray@tovotu.de
     gnome-shell-extension-tool -e insensitivetray@tovotu.de
     
-You can also manages extensions from https://extensions.gnome.org/local/
+You can also manage extensions from https://extensions.gnome.org/local/
 
 License:
 --------
