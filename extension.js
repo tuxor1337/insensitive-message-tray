@@ -1,9 +1,8 @@
-
 const LayoutManager = imports.ui.main.layoutManager;
 const Shell = imports.gi.Shell;
 
 const MessageTray = imports.ui.main.messageTray;
-_myDwell = 0;
+let _myDwell = 0;
 
 function init() { }
 
