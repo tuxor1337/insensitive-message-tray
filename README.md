@@ -21,12 +21,12 @@ Example:
     
 You can also manage extensions from https://extensions.gnome.org/local/
 
-If the installation doesn't seem to stick, try restarting gnome.
+If the installation doesn't seem to stick, try restarting GNOME.
 
 Usage:
 ------
 
-Enjoy the peace, and you can show the tray with command+M when you need it.
+Enjoy the peace. You can show the tray with Super+M whenever you need it.
 
 
 License:
