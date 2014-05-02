@@ -1,7 +1,8 @@
 About:
 ------
 
-Renders Gnome's bottom message tray insensitive
+Renders Gnome's bottom message tray insensitive. It will no longer steal the focus and move the screen when your mouse hits the bottom of the screen. 
+
 * https://extensions.gnome.org/extension/616/insensitive-message-tray/
 * https://github.com/tuxor1337/insensitive-message-tray
 
@@ -19,6 +20,14 @@ Example:
     gnome-shell-extension-tool -e insensitivetray@tovotu.de
     
 You can also manage extensions from https://extensions.gnome.org/local/
+
+If the installation doesn't seem to stick, try restarting gnome.
+
+Usage:
+------
+
+Enjoy the peace, and you can show the tray with command+M when you need it.
+
 
 License:
 --------
