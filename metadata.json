@@ -1,5 +1,5 @@
 {
-  "shell-version": ["3.6", "3.8", "3.10", "3.12"],
+  "shell-version": ["3.6", "3.8", "3.10", "3.12", "3.14"],
   "uuid": "insensitivetray@tovotu.de",
   "name": "Insensitive Message Tray",
   "description": "Renders the bottom message tray insensitive so that it doesn't show up automatically when the mouse pointer is placed at the bottom edge of the screen. However you can still access the message tray using Super+M.",
